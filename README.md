@@ -9,5 +9,5 @@ All the projects done in Foundations of Data Science course at BITS Pilani, Hyde
 
 ## Team Members
 - [Jonathan Samuel J](https://github.com/Joe2k)
-- Achyuta Krishna V 
+- [Achyuta Krishna V](https://github.com/AchyutaKrishna) 
 - [Shubh Deep](https://github.com/shubh128)
